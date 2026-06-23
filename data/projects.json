@@ -1,60 +1,59 @@
 [
     {
-        "title": "PID Heater Control Lab Module",
-        "year": "2025",
+       "title": "Autonomous Legged Robot for Contour and Stair Exploration",
+        "year": "2024",
         "fund": "IDR 500,000",
         "partner": "Politeknik Negeri Semarang",
-        "role": "Hardware Assembly",
-        "description": "An IoT-based smart irrigation system developed using an ESP32 microcontroller to monitor soil moisture levels in real-time. It features automated watering control via a relay-driven pump, with data visualized on an IoT Dashboard for remote monitoring.",
-        "image": "images/project1.png",
+        "role": "Hardware Engineer",
+        "description": "A specialized legged robotics project designed to navigate steep vertical obstacles and uneven terrain, such as stairs.",
+        "image": "images/project6.png",
         "link": "#"
     },
     {
-        "title": "SoC-based System for Non Contact Vital Signs Measurement",
-        "year": "2021",
-        "partner": "Tech Manufacturing Inc.",
-        "role": "Project Lead",
-        "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
-        "image": "images/project2.jpg",
-        "link": "https://example.com/assembly-optimization"
+        "title": "Smart Irrigation System Prototype",
+        "year": "2025",
+		"fund": "IDR 200,000",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Software Engineer",
+        "description": "An IoT-based smart irrigation system developed using an ESP32 microcontroller to monitor soil moisture levels in real time. This system features automatic irrigation control via a relay-controlled pump using a threshold-based method, as well as data integration with an IoT dashboard for remote monitoring.",
+        "image": "images/project2.png",
+        "link": "#"
     },
 	{
-        "title": "Contactless Vital Signs Kiosk in Intelligent Building",
-        "year": "2021",
-        "partner": "Tech Manufacturing Inc.",
-        "role": "Project Lead",
-        "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
-        "image": "images/project3.jpg",
-        "link": "https://example.com/assembly-optimization"
+        "title": "SOS Bracelet",
+        "year": "2025",
+        "role": "Hardware Engineer",
+        "description": "IoT wearable safety device. It functions as a panic button system that instantly sends emergency notifications and location data via a BLE network to a smartphone, which then forwards the information to the cloud.",
+        "image": "images/project3.png",
+        "link": "#"
     },
     {
-        "title": "Smart Irrigation",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
+         "title": "PID Heater Control Lab Module",
+        "year": "2025",
+        "fund": "IDR 500,000",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Hardware Engineer",
+        "description": "This functional lab module was designed and built to provide electrical engineering students with a practical understanding of PID-based closed-loop control systems. The module allows users to validate PID temperature control theory through an actual hardware implementation, using active heaters and coolers for clear demonstrations.",
+        "image": "images/project1.png",
+        "link": "#"
+    },
+	{
+        "title": "4 DOF Robotic Arm",
+        "year": "2025",
+		"fund": "IDR 450,000",
+		"partner": "Polines Robotics Evolution",
+        "role": "Hardware Engineer",
+        "description": "A simple 4-DoF (degrees of freedom) robotic arm project designed for a children’s educational module. This robot is controlled via a smartphone.",
         "image": "images/project4.png",
-        "link": "https://example.com/solar-water"
+        "link": "#"
     },
 	{
-        "title": "KOICA-Silla-UMN Indstrial 4.0",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project5.jpg",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Matching Fund: iSense",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project6.jpg",
-        "link": "https://example.com/solar-water"
+        "title": "Autonomus Legged SAR Robot",
+        "year": "2025",
+        "partner": "Polines Robotics Evolution",
+        "role": "Hardware Developer",
+        "description": "An advanced robotics project developed for the Indonesian SAR Robot Contest (KRSRI). This legged robot is designed to navigate autonomously through simulated disaster terrain, overcome various extreme obstacles, and locate victims on its own. ",
+        "image": "images/project5.png",
+        "link": "#"
     }
 ]
