@@ -1,0 +1,16 @@
+[
+    {
+        "company": "Freelance / Independent Contractor",
+		"logo":"images/embedded.png",
+        "position": "Embedded Systems & Electronics Developer",
+        "year": "2025",
+        "description": "Developed and prototyped small-scale electronic systems and custom IoT solutions based on client requirements. Programmed microcontrollers, integrated sensors, and performed hardware troubleshooting. Collaborated closely with clients to ensure the final product met their expectations."
+    },
+	{
+        "company": "Freelance / Independent Contractor",
+		"logo":"images/pcb.png",
+        "position": "Hardware & PCB Designer",
+        "year": "2025",
+        "description": "Designed and routed custom Printed Circuit Boards (PCBs) for various client projects using EDA software. Managed the end-to-end hardware development process, including schematic capture, component selection, manual soldering, and final circuit testing."
+    }
+]

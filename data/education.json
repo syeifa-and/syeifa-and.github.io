@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Electrical Engineering",
+        "year": "2023 - present",
+        "description": "Current GPA: 3.80 out of 4.0. Focusing on Embedded Systems and Internet of Things (IoT). Relevant coursework includes Microcontroller Programming, PCB Design, and Industrial Automation. Actively involved in hands-on projects integrating hardware with IoT networks."
+    },
+    {
+        "university": "SMA Negeri 1 Demak",
+		"logo": "images/smansade-logo.png",
+        "major": "High School Diploma in Natural Sciences",
+        "year": "2020 - 2023",
+        "description": "Built a strong foundation in analytical thinking, mathematics, and physics. Developed logical problem-solving skills that serve as the core groundwork for understanding electronics engineering and programming concepts."
+    }
+]

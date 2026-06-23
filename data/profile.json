@@ -1,0 +1,36 @@
+{
+    "name": "Syeifa Andhika Nugroho - Electronic Engineering",
+    "description": "A D4 student in Electronic Engineering Technology at Politeknik Negeri Semarang with a strong foundation in hardware design and a particular interest in Internet of Things (IoT) technology. Has practical experience in assembling electronic systems, troubleshooting circuits, and integrating microcontrollers with smart sensors. Enthusiastic about creating connected technology solutions and ready to contribute to solving industry challenges.",
+    "profileImage": "images/andhika.jpeg",
+    "email": "syeifa.43423023@mhs.polines.ac.id",
+    "phone": "+62 (857) 136-37663",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/aminuddin-rizal128"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/rizalhalim9"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://twitter.com/redpandalin"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 85},
+        {"name": "Embedded Systems", "icon": "fas fa-microchip", "level": 85},
+        {"name": "PCB & Circuit Design", "icon": "fas fa-desktop", "level": 80},
+        {"name": "Microcontroller Programming", "icon": "fab fa-cuttlefish", "level": 85},
+        {"name": "IoT Communication (MQTT)", "icon": "fas fa-network-wired", "level": 75},
+	    {"name": "Electronics Troubleshooting", "icon": "fas fa-tools", "level": 80},
+	    {"name": "Project Management", "icon": "fas fa-list-check", "level": 70},
+	    {"name": "Teamwork & Collaboration", "icon": "fas fa-users", "level": 85}
+    ]
+}
