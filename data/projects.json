@@ -15,7 +15,7 @@
         "partner": "Tech Manufacturing Inc.",
         "role": "Project Lead",
         "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
-        "image": "images/project2.png",
+        "image": "images/project2.jpg",
         "link": "https://example.com/assembly-optimization"
     },
 	{
@@ -24,7 +24,7 @@
         "partner": "Tech Manufacturing Inc.",
         "role": "Project Lead",
         "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
-        "image": "images/project3.png",
+        "image": "images/project3.jpg",
         "link": "https://example.com/assembly-optimization"
     },
     {
@@ -44,7 +44,7 @@
         "partner": "Clean Water Initiative",
         "role": "Lead Engineer",
         "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project5.png",
+        "image": "images/project5.jpg",
         "link": "https://example.com/solar-water"
     },
 	{
@@ -54,37 +54,7 @@
         "partner": "Clean Water Initiative",
         "role": "Lead Engineer",
         "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project6.png",
+        "image": "images/project6.jpg",
         "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Matching Fund:RAMA",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project7.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Competitive Fund: PiDaQ",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project8.png",
-        "link": "https://example.com/solar-water"
-    },
-	{
-        "title": "Penelitian Tesis Magister: Activity Recognition",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project9.png",
-        "link": "https://example.com/solar-water"
-	}
+    }
 ]
