@@ -6,7 +6,7 @@
         "partner": "Politeknik Negeri Semarang",
         "role": "Hardware Assembly",
         "description": "An IoT-based smart irrigation system developed using an ESP32 microcontroller to monitor soil moisture levels in real-time. It features automated watering control via a relay-driven pump, with data visualized on an IoT Dashboard for remote monitoring.",
-        "image": "images/project1.jpg",
+        "image": "images/project1.png",
         "link": "#"
     },
     {
