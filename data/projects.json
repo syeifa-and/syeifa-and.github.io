@@ -51,6 +51,7 @@
 	{
         "title": "Autonomus Legged SAR Robot",
         "year": "2025",
+		"fund": "IDR 5,000,000",
         "partner": "Polines Robotics Evolution",
         "role": "Hardware Developer",
         "description": "An advanced robotics project developed for the Indonesian SAR Robot Contest (KRSRI). This legged robot is designed to navigate autonomously through simulated disaster terrain, overcome various extreme obstacles, and locate victims on its own. ",
