@@ -2,7 +2,7 @@
     {
        "title": "Autonomous Legged Robot for Contour and Stair Exploration",
         "year": "2024",
-        "fund": "IDR 500,000",
+        "fund": "IDR 500,000 (Academic Project)",
         "partner": "Politeknik Negeri Semarang",
         "role": "Hardware Engineer",
         "description": "A specialized legged robotics project designed to navigate steep vertical obstacles and uneven terrain, such as stairs.",
@@ -12,7 +12,7 @@
     {
         "title": "Smart Irrigation System Prototype",
         "year": "2025",
-		"fund": "IDR 200,000",
+		"fund": "IDR 200,000 (Academic Project)",
         "partner": "Politeknik Negeri Semarang",
         "role": "Software Engineer",
         "description": "An IoT-based smart irrigation system developed using an ESP32 microcontroller to monitor soil moisture levels in real time. This system features automatic irrigation control via a relay-controlled pump using a threshold-based method, as well as data integration with an IoT dashboard for remote monitoring.",
@@ -31,7 +31,7 @@
     {
          "title": "PID Heater Control Lab Module",
         "year": "2025",
-        "fund": "IDR 500,000",
+        "fund": "IDR 500,000 (Academic Project)",
         "partner": "Politeknik Negeri Semarang",
         "role": "Hardware Engineer",
         "description": "This functional lab module was designed and built to provide electrical engineering students with a practical understanding of PID-based closed-loop control systems. The module allows users to validate PID temperature control theory through an actual hardware implementation, using active heaters and coolers for clear demonstrations.",
