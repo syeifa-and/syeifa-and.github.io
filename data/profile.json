@@ -20,7 +20,7 @@
     ],
     "cv": {
 			"text": "Download CV",
-			"file": "docs/Syeifa_Andhika_Nugroho_CV.pdf",
+			"file": "docs/Syeifa_Andhika_Nugroho_CV.pdf", 
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
