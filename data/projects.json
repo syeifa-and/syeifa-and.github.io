@@ -22,6 +22,7 @@
 	{
         "title": "SOS Bracelet",
         "year": "2025",
+		"fund": "IDR 200,000 (Freelance Commission)",
         "role": "Hardware Engineer",
         "description": "IoT wearable safety device. It functions as a panic button system that instantly sends emergency notifications and location data via a BLE network to a smartphone, which then forwards the information to the cloud.",
         "image": "images/project3.png",
